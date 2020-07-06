@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\bin\Debug\netcoreapp3.1\mdc.exe
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\bin\Debug\netcoreapp3.1\mdc.deps.json
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\bin\Debug\netcoreapp3.1\mdc.runtimeconfig.json
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\bin\Debug\netcoreapp3.1\mdc.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\bin\Debug\netcoreapp3.1\mdc.dll
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\bin\Debug\netcoreapp3.1\mdc.pdb
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\obj\Debug\netcoreapp3.1\mdc.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\obj\Debug\netcoreapp3.1\mdc.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\obj\Debug\netcoreapp3.1\mdc.AssemblyInfo.cs
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\obj\Debug\netcoreapp3.1\mdc.dll
+C:\Users\Maria Luiza\Desktop\Luiza\mdc\mdc\obj\Debug\netcoreapp3.1\mdc.pdb
